@@ -1,20 +1,20 @@
 # personal_boxes
 
 This script adds ACE action to the selected boxes to unlock and lock them by their owner. 
-It is very usefull when you want to prevent people from accesing the ammo crate and taking it's inventory.
+It is very useful when you want to prevent people from accessing the ammo crate and taking its inventory.
 
 # How to use:
 
-Place the ammobox and in the init put following code:
+Place the ammo box and in the init put the following code:
 ```
 [this,"Nickname"] execVM "Init_Crate.sqf";
 ```
 
 # Parameters:
 ```
-First parameter is object, it could either be this or it's variable name.
+A first parameter is an object.
 
-Second parameter is string with owner's nick. 
+The second parameter is a string with the owner's nick. 
 ```
 
 # Examples:
