@@ -3,6 +3,8 @@
 This script adds ACE action to the selected boxes to unlock and lock them by their owner. 
 It is very useful when you want to prevent people from accessing the ammo crate and taking its inventory.
 
+![Example](https://i.imgur.com/CLuK3Sw.png)
+
 # How to use:
 
 Place the ammo box and in the init put the following code:
